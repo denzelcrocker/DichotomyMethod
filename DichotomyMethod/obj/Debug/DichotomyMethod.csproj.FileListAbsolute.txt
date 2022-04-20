@@ -1,0 +1,8 @@
+C:\Users\zelen\Desktop\DichotomyMethod\DichotomyMethod\bin\Debug\DichotomyMethod.exe.config
+C:\Users\zelen\Desktop\DichotomyMethod\DichotomyMethod\bin\Debug\DichotomyMethod.exe
+C:\Users\zelen\Desktop\DichotomyMethod\DichotomyMethod\bin\Debug\DichotomyMethod.pdb
+C:\Users\zelen\Desktop\DichotomyMethod\DichotomyMethod\obj\Debug\DichotomyMethod.csproj.AssemblyReference.cache
+C:\Users\zelen\Desktop\DichotomyMethod\DichotomyMethod\obj\Debug\DichotomyMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\zelen\Desktop\DichotomyMethod\DichotomyMethod\obj\Debug\DichotomyMethod.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Desktop\DichotomyMethod\DichotomyMethod\obj\Debug\DichotomyMethod.exe
+C:\Users\zelen\Desktop\DichotomyMethod\DichotomyMethod\obj\Debug\DichotomyMethod.pdb
